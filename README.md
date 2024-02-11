@@ -28,6 +28,6 @@ We then take these rankings and generate graph embeddings using different strate
 
 ## Conclusion
 We tested these graph embeddings on real-world datasets and compared their performance.
-The results and more information about the project can be found in the [report]
+The results and more information about the project can be found in the [report](https://github.com/AliE02/Triplet-Comparison-Graph-Embedding/blob/main/Spring_2023_Semester_Projects_Representations_Ali.pdf).
 
 I want to thank Prof. Matthias Grossglauser and Dr. Suryanarayana Sankagiri for their guidance and support throughout the project, and I hope that the work done in this project will be useful for future research in the field of graph embeddings and triplet comparisons.
